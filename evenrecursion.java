@@ -1,4 +1,4 @@
-public class EvenNumberFinder {
+public class evenrecursion {
     public static boolean isEven(int number) {
         if (number == 0) {
             return true;
